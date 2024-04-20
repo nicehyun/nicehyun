@@ -4,10 +4,14 @@
 	
   </div>
 
-## Skill
-<img src="https://img.shields.io/badge/{뱃지이름}-{뱃지색깔}?style={뱃지스타일}&logo={로고이름}&logoColor={로고색깔}"/>
+###🚀 Skill
+<img src="https://img.shields.io/badge/Next.js-000000?style=&logo=next.js&logoColor=white" width="80" height="auto"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=&logo=React&logoColor=white" width="80" height="auto"/>
-
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=&logo=typescript&logoColor=white" width="80" height="auto"/>
+<img src="https://img.shields.io/badge/React_Query-FF4154?style=&logo=react-query&logoColor=white" width="80" height="auto"/>
+<img src="https://img.shields.io/badge/Redux-764ABC?style=&logo=redux&logoColor=white" width="80" height="auto"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=&logo=tailwind-css&logoColor=white" width="80" height="auto"/>
+<img src="https://img.shields.io/badge/Emotion-D36AC2?style=&logo=emotion&logoColor=white" width="80" height="auto"/>
 
 ###🚀 Dev logs
 
