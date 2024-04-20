@@ -17,3 +17,19 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicehyun&layout=compact&count_private=true&bg_color=75,61DAFB,6A0DAD&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
+
+
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=nicehyun&count_private=true&custom_title=Noah's%20github%20👀&bg_color=75,61DAFB,6A0DAD&title_color=fff&text_color=fff" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicehyun&layout=compact&count_private=true&bg_color=75,61DAFB,6A0DAD&title_color=fff&text_color=fff" />
+      </a>
+    </td>
+  </tr>
+</table>
