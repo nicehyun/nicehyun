@@ -1,4 +1,4 @@
-작성 예장...
+`React`, `TypeScript`, `Next.js`를 주력으로 사용하고 있으며, '어제의 Best Practice를 오늘의 Legacy로'라는 개발 모토를 통해 어제보다 나은 개발자가 되고자 합니다.
 
 
 ---
