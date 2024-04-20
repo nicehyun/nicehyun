@@ -10,5 +10,5 @@
 
 
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=nicehyun&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![github stats](https://github-readme-stats.vercel.app/api?username=nicehyun&count_private=true&custom_title=Noah's githu👀)](https://github.com/anuraghazra/github-readme-stats)
 
