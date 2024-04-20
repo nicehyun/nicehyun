@@ -1,9 +1,10 @@
-  <div align=end>
-	
+hi
+
+
+---
+ 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnicehyun&count_bg=%23419FD3&title_bg=%23555555&icon=react.svg&icon_color=%23419FD3&title=%5BTODAY%2FTOTAL%5D&edge_flat=false)](https://hits.seeyoufarm.com)
 	
-  </div>
-
 ### 🚀 Skill
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=&logo=React&logoColor=white)
