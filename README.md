@@ -11,7 +11,10 @@
 ![React Query](https://img.shields.io/badge/React_Query-FF4154?style=&logo=react-query&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=&logo=redux&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=&logo=tailwind-css&logoColor=white)
-![Emotion](https://img.shields.io/badge/Emotion-D36AC2?style=&logo=emotion&logoColor=white)
+![Styled Components](https://img.shields.io/badge/Styled_Components-DB7093?style=&logo=styled-components&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=&logo=cypress&logoColor=white)
+![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=&logo=storybook&logoColor=white)
+
 
 
 ### 🚀 Dev logs
