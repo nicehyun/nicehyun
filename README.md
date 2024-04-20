@@ -9,6 +9,10 @@
 <img src="https://img.shields.io/badge/React-61DAFB?style=&logo=React&logoColor=white" width="80" height="auto"/>
 
 
+### Dev Log
+
+![github stats](https://github-readme-stats.vercel.app/api?username=nicehyun&count_private=true&custom_title=Noah's&nbsp;github&nbsp;👀&bg_color=75,61DAFB,6A0DAD&title_color=fff&text_color=fff)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicehyun&layout=compact&count_private=true&bg_color=75,61DAFB,6A0DAD&title_color=fff&text_color=fff)
 
 <div style="display: flex;">
 	
