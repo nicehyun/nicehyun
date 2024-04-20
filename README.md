@@ -10,5 +10,5 @@
 
 
 
-[![github stats](https://github-readme-stats.vercel.app/api?username="nicehyun")](https://github.com/anuraghazra/github-readme-stats)
+[![github stats](https://github-readme-stats.vercel.app/api?username=nicehyun)](https://github.com/anuraghazra/github-readme-stats)
 
