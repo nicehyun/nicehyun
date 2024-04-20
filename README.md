@@ -5,13 +5,14 @@
   </div>
 
 ### 🚀 Skill
-<img src="https://img.shields.io/badge/Next.js-000000?style=&logo=next.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=&logo=React&logoColor=white"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/React_Query-FF4154?style=&logo=react-query&logoColor=white"/>
-<img src="https://img.shields.io/badge/Redux-764ABC?style=&logo=redux&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=&logo=tailwind-css&logoColor=white"/>
-<img src="https://img.shields.io/badge/Emotion-D36AC2?style=&logo=emotion&logoColor=white"/>
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=&logo=React&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=&logo=typescript&logoColor=white)
+![React Query](https://img.shields.io/badge/React_Query-FF4154?style=&logo=react-query&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=&logo=redux&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=&logo=tailwind-css&logoColor=white)
+![Emotion](https://img.shields.io/badge/Emotion-D36AC2?style=&logo=emotion&logoColor=white)
+
 
 ### 🚀 Dev logs
 
