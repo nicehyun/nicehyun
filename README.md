@@ -5,5 +5,6 @@
   </div>
 
 ## Skill
-  [Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/)
+![React badge](https://img.shields.io/badge/iOS-13.0%2B-green)
+
 	
