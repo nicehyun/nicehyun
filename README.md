@@ -1,4 +1,6 @@
-`React`, `TypeScript`, `Next.js`를 주력으로 사용하고 있으며, '어제의 Best Practice를 오늘의 Legacy로'라는 개발 모토를 통해 어제보다 나은 개발자가 되고자 합니다.
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=&logo=React&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=&logo=typescript&logoColor=white)를 주력으로 사용하고 있으며, '어제의 Best Practice를 오늘의 Legacy로'라는 개발 모토를 통해 어제보다 나은 개발자가 되고자 합니다.
 
 **✅ UX와 연결되는 다양한 부분에 관심을 가지고, 개선할 수 있는 방법에 대해 고민하고 적용합니다.**
 
